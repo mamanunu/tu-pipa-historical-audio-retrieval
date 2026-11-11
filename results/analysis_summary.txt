@@ -1,0 +1,28 @@
+Summary of the Tu Pipa corpus analysis
+Source analysis date: 2026-10-13
+Core recordings: 54; candidate segments: 270; segments retained after manual review: 270.
+Six segment positions were manually replaced; five four-second segments were retained for each recording.
+Segments are sampled from recordings, and retrieval evaluation is grouped by source recording. The 270 segments should not be treated as 270 independent field recordings.
+
+PCA summary:
+Representation A, PC1 explained variance = 0.2209; cumulative = 0.2209
+Representation A, PC2 explained variance = 0.1041; cumulative = 0.3249
+Representation B, PC1 explained variance = 0.3209; cumulative = 0.3209
+Representation B, PC2 explained variance = 0.1543; cumulative = 0.4752
+Representation C, PC1 explained variance = 0.3102; cumulative = 0.3102
+Representation C, PC2 explained variance = 0.1591; cumulative = 0.4693
+
+Retrieval summary (see `retrieval_metrics.csv`):
+Representation A, Hua Diao: P@5 = 0.7520; random baseline = 0.8302; difference = -0.0782
+Representation A, Bei Gong Diao: P@5 = 0.2178; random baseline = 0.1509; difference = 0.0668
+Representation B, Hua Diao: P@5 = 0.7502; random baseline = 0.8302; difference = -0.0800
+Representation B, Bei Gong Diao: P@5 = 0.2089; random baseline = 0.1509; difference = 0.0579
+Representation C, Hua Diao: P@5 = 0.7573; random baseline = 0.8302; difference = -0.0729
+Representation C, Bei Gong Diao: P@5 = 0.2267; random baseline = 0.1509; difference = 0.0757
+
+Top-5 neighbor-set stability for the primary retrieval task (macro-average):
+A–B mean overlap = 0.6596; 95% CI = 0.6182–0.6956; median = 0.6000
+A–C mean overlap = 0.6382; 95% CI = 0.5933–0.6760; median = 0.6000
+B–C mean overlap = 0.9231; 95% CI = 0.8982–0.9431; median = 1.0000
+
+Quality note: `low_level` and `review_low_energy` are review flags, not automatic evidence of an error; interpret them alongside listening checks and sensitivity analyses.

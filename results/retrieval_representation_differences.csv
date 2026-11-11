@@ -1,0 +1,10 @@
+﻿task,comparison,query_form,p_at_5_difference,ci_low,ci_high,interval_contains_zero,notes
+cross_recording_prototype,A-B,Hua Diao,0.0017777777777777829,-0.02133333333333333,0.02668888888888888,True,Paired by query segment; bootstrap resamples query recordings with fixed rankings and candidate corpus.
+cross_recording_prototype,A-B,Bei Gong Diao,0.008888888888888892,-0.06666666666666667,0.07555555555555557,True,Paired by query segment; bootstrap resamples query recordings with fixed rankings and candidate corpus.
+cross_recording_prototype,A-B,macro,0.0053333333333333375,-0.03246666666666667,0.04178888888888889,True,Paired by query segment; bootstrap resamples query recordings with fixed rankings and candidate corpus.
+cross_recording_prototype,A-C,Hua Diao,-0.005333333333333327,-0.031111111111111103,0.021355555555555537,True,Paired by query segment; bootstrap resamples query recordings with fixed rankings and candidate corpus.
+cross_recording_prototype,A-C,Bei Gong Diao,-0.008888888888888889,-0.07566666666666667,0.04888888888888889,True,Paired by query segment; bootstrap resamples query recordings with fixed rankings and candidate corpus.
+cross_recording_prototype,A-C,macro,-0.007111111111111108,-0.04224444444444444,0.024444444444444446,True,Paired by query segment; bootstrap resamples query recordings with fixed rankings and candidate corpus.
+cross_recording_prototype,B-C,Hua Diao,-0.00711111111111111,-0.015999999999999997,0.0017999999999999848,True,Paired by query segment; bootstrap resamples query recordings with fixed rankings and candidate corpus.
+cross_recording_prototype,B-C,Bei Gong Diao,-0.017777777777777778,-0.04888888888888889,0.017777777777777778,True,Paired by query segment; bootstrap resamples query recordings with fixed rankings and candidate corpus.
+cross_recording_prototype,B-C,macro,-0.012444444444444444,-0.027555555555555555,0.0035555555555555557,True,Paired by query segment; bootstrap resamples query recordings with fixed rankings and candidate corpus.

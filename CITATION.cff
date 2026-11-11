@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the repository and the accompanying paper."
+title: "Computational Organization and Machine-Listening Retrieval of Historical Tu Pipa Field Recordings"
+type: software
+authors:
+  - family-names: "Ma"
+    given-names: "Yao"
+    affiliation: "Sichuan Conservatory of Music"
+version: 1.0.0
+date-released: 2026-11-11
+license: MIT

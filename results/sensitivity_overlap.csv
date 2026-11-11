@@ -1,0 +1,10 @@
+﻿representation,task,query_form,exclusion_unit,excluded_recordings,full_p_at_5,full_query_count,sensitivity_query_count,candidate_recordings_after,exclude_overlap_recording_p_at_5,difference
+A,within_recording_segments,all,entire_recording,one_recording,0.37037037037037035,270,265,53,0.37283018867924533,0.0024598183088749837
+A,cross_recording_prototype,Hua Diao,entire_recording,one_recording,0.7520000000000002,225,220,53,0.7518181818181817,-0.00018181818181850495
+A,cross_recording_prototype,Bei Gong Diao,entire_recording,one_recording,0.2177777777777778,45,45,53,0.2177777777777778,0.0
+B,within_recording_segments,all,entire_recording,one_recording,0.38814814814814813,270,265,53,0.39018867924528305,0.0020405310971349233
+B,cross_recording_prototype,Hua Diao,entire_recording,one_recording,0.7502222222222222,225,220,53,0.7509090909090909,0.0006868686868686247
+B,cross_recording_prototype,Bei Gong Diao,entire_recording,one_recording,0.20888888888888882,45,45,53,0.20888888888888882,0.0
+C,within_recording_segments,all,entire_recording,one_recording,0.3985185185185185,270,265,53,0.4,0.001481481481481528
+C,cross_recording_prototype,Hua Diao,entire_recording,one_recording,0.7573333333333332,225,220,53,0.759090909090909,0.0017575757575758466
+C,cross_recording_prototype,Bei Gong Diao,entire_recording,one_recording,0.22666666666666666,45,45,53,0.22666666666666666,0.0

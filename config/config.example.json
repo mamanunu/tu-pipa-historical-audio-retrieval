@@ -1,0 +1,13 @@
+{
+  "source_root": "/path/to/authorized/audio",
+  "output_root": "/path/to/private/analysis",
+  "manual_review": "/path/to/private/manual_review_status.json",
+  "manual_cases": "/path/to/private/manual_case_interpretations.json",
+  "collector": "collector metadata",
+  "period": "recording period",
+  "location": "recording region",
+  "scene": "field recording",
+  "source_medium": "source medium",
+  "permission_status": "local access conditions",
+  "write_derived_audio": false
+}
